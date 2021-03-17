@@ -15996,6 +15996,7 @@ body.offcanvas-open {
   font-size: 18px;
   font-weight: 600;
   color: #212121;
+  background-color: rgba(245, 245, 245);
   margin: 0;
   line-height: 1;
 }
