@@ -106,3 +106,17 @@
 .container-table {
   overflow:auto;
 }
+
+.custom-icon {
+  background: url('../images/icons/icon-store.png');
+  height: 30px;
+  width: 30px;
+  display: block;
+}
+
+.custom-icon:hover {
+  background: url('../images/icons/icon-store-hover.png');
+  height: 30px;
+  width: 30px;
+  display: block;
+}
